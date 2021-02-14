@@ -134,24 +134,31 @@ nav .buttons button:hover {
 }
 .grid-container .grid .column:nth-child(1) {
   margin-top: 0px;
+  transition-delay: 0s;
 }
 .grid-container .grid .column:nth-child(2) {
   margin-top: 160px;
+  transition-delay: 0.2s;
 }
 .grid-container .grid .column:nth-child(3) {
   margin-top: 320px;
+  transition-delay: 0.4s;
 }
 .grid-container .grid .column:nth-child(4) {
   margin-top: 480px;
+  transition-delay: 0.6s;
 }
 .grid-container .grid .column:nth-child(5) {
   margin-top: 320px;
+  transition-delay: 0.8s;
 }
 .grid-container .grid .column:nth-child(6) {
   margin-top: 160px;
+  transition-delay: 1s;
 }
 .grid-container .grid .column:nth-child(7) {
   margin-top: 0px;
+  transition-delay: 1.2s;
 }
 .grid-container .grid .item {
   width: 236px;
@@ -161,4 +168,4 @@ nav .buttons button:hover {
 }
 .grid-container .grid .item:not(:first-child) {
   margin-top: 16px;
-}
+}/*# sourceMappingURL=style.css.map */
